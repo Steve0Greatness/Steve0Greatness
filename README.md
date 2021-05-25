@@ -1,1 +1,3 @@
-Hey there! I'm [Steve0Greatness](scratch.mit.edu/users/steve0greatness)! I'm a Scratcher who mainly uses the Scratch forums, I also have a small site.
+Hi there! I'm Steve0Greatness! I'm a Scratch Creator, I like Html, and 🥢 sushi is what I love 😍
+
+I mean, who doesn't like sushi?🍣
