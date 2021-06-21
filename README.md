@@ -1,3 +1,10 @@
-Hi there! I'm Steve0Greatness! I'm a Scratch Creator, I like Html, and 🥢 sushi is what I love 😍
-
-I mean, who doesn't like sushi?🍣
+```python
+print('hello world')
+```
+```javascript
+document.getElementById('textArea').innerHTML = 'hello world'
+```
+meanwhile, html be like
+```html
+hello world
+```
