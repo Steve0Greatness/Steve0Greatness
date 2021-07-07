@@ -2,7 +2,7 @@
 print('hello world')
 ```
 ```javascript
-document.getElementById('textArea').innerHTML = 'hello world'
+document.write('hello world')
 ```
 meanwhile, html be like
 ```html
