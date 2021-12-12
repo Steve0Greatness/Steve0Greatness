@@ -1,7 +1,9 @@
-One of these things is not like the others, one of these things just doesn't belong.
+# Welcome
+Hi, I'm Steve0Greatness; you can call me S0G. I'm a mostly self tought programmer with an interest in JavaScript, and (to a lesser extent) Python. I also know how to use Scratch, but lets be honest, everyone does. 
 
-> 🐢 Turtle
-
-> 🐈‍⬛ Cat
-
-> ![S0G](https://avatars.githubusercontent.com/u/75220768?s=16) me
+## A bit more about myself
+* I perfer hexcode colors over RGB(A).
+* I'm scared of languages other than JS and Python because their syntax is confusing.
+* My pronouns are He/Him.
+* I have too many cats.
+* I like Undertale and Deltarune.
