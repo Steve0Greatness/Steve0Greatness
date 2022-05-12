@@ -1,5 +1,5 @@
 # Welcome
-Hi, I'm Steve0Greatness; you can call me S0G. I'm a mostly self tought programmer with an interest in JavaScript, and (to a lesser extent) Python. I also know how to use Scratch, but lets be honest, everyone does. 
+Hi, I'm Steve0Greatness; you can call me S0G. I'm a mostly self tought programmer with an interest in JavaScript, and (to a lesser extent) Python. I also know how to use Scratch, but let's be honest, everyone does. 
 
 ## A bit more about myself
 * I perfer hexcode colors over RGB(A).
