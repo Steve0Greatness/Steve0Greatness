@@ -1,9 +1,2 @@
-# Welcome
-Hi, I'm Steve0Greatness; you can call me S0G. I'm a mostly self tought programmer with an interest in JavaScript, and (to a lesser extent) Python. I also know how to use Scratch, but lets be honest, everyone does. 
-
-## A bit more about myself
-* I perfer hexcode colors over RGB(A).
-* I'm scared of languages other than JS and Python because their syntax is confusing.
-* My pronouns are He/Him.
-* I have too many cats.
-* I like Undertale and Deltarune.
+# Who am I?
+Hey there! I'm Steve0Greatness, sometimes known as S0G. I'm a, mostly, self taught programmer with an interest in web development. I mostly work with JavaScript, and not much else. However, I also have some experience in Python, and I've written [at least 1 program in a ton of languages](https://fizzbuzz.stevesgreatness.repl.co/).
