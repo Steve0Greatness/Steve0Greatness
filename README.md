@@ -1,3 +1,5 @@
-# Who am I?
+Hello. My name is Steve0Greatness(Steve Zero Greatness). I'm a human being on the interweb, who is 100% a human, and not a wild animal or robot.
 
-Hey there! I'm Steve0Greatness, sometimes known as S0G. I'm a programmer with an interest in web-development, with a particular interest in backend development, mainly with tools like Flask for Python.
+I've worked on a few projects. One such being [Forumoji](https://github.com/lopste/forumoji)(used to be called Project Forumoji), an emoji pack in the style of [PunBB](https://github.com/punbb/punbb)'s "smilies." I've also contributed a few userscripts to [ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), a browser extension/addon which has many additional options to customize [Scratch](https://scratch.mit.edu); the userscripts I've contributed are [*Preview project instructions and notes*](https://scratchaddons.com/addons/#addon-preview-project-description) and [*Remember collapsed forum categories*](https://scratchaddons.com/addons/#addon-remember-collapsed-categories).
+
+I also have a website, which holds my blog. It can be found at [*steve0greatness.github.io*](https://steve0greatness.github.io), you can also find links to my social accounts there(e.g. Mastodon & Bluesky).
